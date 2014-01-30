@@ -1,4 +1,5 @@
-`I've restyled the bash prompt.. that's it.`
+I've restyled the bash prompt.. that's it.
+
 ![alt tag](http://i58.tinypic.com/fko0ec.png)
 
 
